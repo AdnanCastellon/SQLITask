@@ -1,7 +1,6 @@
 package com.sqli.runners;
 
 import io.cucumber.junit.*;
-import io.cucumber.junit.*;
 import org.junit.runner.*;
 
 @RunWith(Cucumber.class)
